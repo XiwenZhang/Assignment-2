@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Deakin SIT 206 Assignment 2/OrderVC.swift"
+            timestampString = "548988783.073653"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "OrderVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Deakin_SIT_206_Assignment_2.OrderVC.Sa.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Deakin SIT 206 Assignment 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangxiwen/Desktop/Deakin%20SIT%20206%20Assignment%202/Deakin%20SIT%20206%20Assignment%202/OrderVC.swift"
+                  timestampString = "548987972.089033"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Deakin_SIT_206_Assignment_2.OrderVC.Sa.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Deakin SIT 206 Assignment 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangxiwen/Desktop/Deakin%20SIT%20206%20Assignment%202/Deakin%20SIT%20206%20Assignment%202/OrderVC.swift"
+                  timestampString = "548987972.101675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Deakin_SIT_206_Assignment_2.OrderVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Deakin_SIT_206_Assignment_2.OrderVC"
+                  moduleName = "Deakin SIT 206 Assignment 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangxiwen/Desktop/Deakin%20SIT%20206%20Assignment%202/Deakin%20SIT%20206%20Assignment%202/OrderVC.swift"
+                  timestampString = "548987972.114326"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Deakin_SIT_206_Assignment_2.OrderVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Deakin_SIT_206_Assignment_2.OrderVC&gt;"
+                  moduleName = "Deakin SIT 206 Assignment 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangxiwen/Desktop/Deakin%20SIT%20206%20Assignment%202/Deakin%20SIT%20206%20Assignment%202/OrderVC.swift"
+                  timestampString = "548987972.121473"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
